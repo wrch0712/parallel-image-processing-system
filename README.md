@@ -1,3 +1,5 @@
+# Parallel Image Processing System Project
+
 A parallel image processing system that applies image effects on series of images using 2D image convolution.
 
 ### The `png` Directory
